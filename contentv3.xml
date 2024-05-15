@@ -193,7 +193,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="477"></int>
+                  <int value="495"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -207,7 +207,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="6_127_2.13"></unicode>
+                <unicode value="6_127_2.14"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -218,7 +218,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="Sin_titulo_(Presentacion_(169))_(1).gif"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\Sin_titulo_(Presentacion_(169))_(1).gif"></string>
+                  <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\Sin_titulo_(Presentacion_(169))_(1).gif"></string>
                   <string role="key" value="checksum"></string>
                   <string value="922a045b3a23243e4dced9d4459d6159"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -247,7 +247,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="14"></int>
+           <int value="15"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -402,7 +402,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="472"></int>
+                     <int value="490"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -416,7 +416,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="7_128_2.4"></unicode>
+                   <unicode value="7_128_2.5"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="9">
                     <dictionary>
@@ -427,7 +427,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="hombre_caiman.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\hombre_caiman.jpg"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\hombre_caiman.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="3e735fa20d0eedbf77d09e983a87cf47"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -456,7 +456,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="5"></int>
+              <int value="6"></int>
               <string role="key" value="parentNode"></string>
               <reference key="8"></reference>
              </dictionary>
@@ -612,7 +612,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="462"></int>
+                     <int value="480"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -626,7 +626,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="133_128_2.27"></unicode>
+                   <unicode value="133_128_2.30"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="25">
                     <dictionary>
@@ -637,7 +637,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="1.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\1.png"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\1.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="881f82ddf45e4337cd844b41022cf1df"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -664,7 +664,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="466"></int>
+                     <int value="484"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -678,7 +678,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="133_128_2.28"></unicode>
+                   <unicode value="133_128_2.31"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="26">
                     <dictionary>
@@ -689,7 +689,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="2.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\2.png"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\2.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="261146194bf731ab8fc9c52db032cf7e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -716,7 +716,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="470"></int>
+                     <int value="488"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -730,7 +730,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="133_128_2.29"></unicode>
+                   <unicode value="133_128_2.32"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="27">
                     <dictionary>
@@ -741,7 +741,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="3.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\3.png"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\3.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d4d825a2e90a8b3d1e685368514462a7"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -873,7 +873,7 @@
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="467"></int>
+                              <int value="485"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -887,7 +887,7 @@
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="134_130_2.9"></unicode>
+                            <unicode value="134_130_2.10"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="15">
                              <dictionary>
@@ -898,7 +898,7 @@
                               <string role="key" value="_storageName"></string>
                               <string value="2.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\2.png"></string>
+                              <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\2.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="261146194bf731ab8fc9c52db032cf7e"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -927,7 +927,7 @@
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="10"></int>
+                       <int value="11"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="14"></reference>
                       </dictionary>
@@ -1086,7 +1086,7 @@
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="468"></int>
+                              <int value="486"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -1100,7 +1100,7 @@
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="136_129_2.9"></unicode>
+                            <unicode value="136_129_2.10"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="20">
                              <dictionary>
@@ -1111,7 +1111,7 @@
                               <string role="key" value="_storageName"></string>
                               <string value="3.1.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\3.1.png"></string>
+                              <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\3.1.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="a7a03b423076d14fb98ebbd431334aea"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1140,7 +1140,7 @@
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="10"></int>
+                       <int value="11"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="19"></reference>
                       </dictionary>
@@ -1299,7 +1299,7 @@
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="463"></int>
+                              <int value="481"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -1313,7 +1313,7 @@
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="135_131_2.9"></unicode>
+                            <unicode value="135_131_2.10"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="24">
                              <dictionary>
@@ -1324,7 +1324,7 @@
                               <string role="key" value="_storageName"></string>
                               <string value="1.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\1.png"></string>
+                              <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\1.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="881f82ddf45e4337cd844b41022cf1df"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1353,7 +1353,7 @@
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="10"></int>
+                       <int value="11"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="23"></reference>
                       </dictionary>
@@ -1410,7 +1410,7 @@
                </instance>
               </dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="30"></int>
+              <int value="33"></int>
               <string role="key" value="parentNode"></string>
               <reference key="16"></reference>
              </dictionary>
@@ -1762,7 +1762,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="465"></int>
+                     <int value="483"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1776,7 +1776,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="11_142_2.4"></unicode>
+                   <unicode value="11_142_2.5"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="34">
                     <dictionary>
@@ -1787,7 +1787,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="2.gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\2.gif"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\2.gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="284d0972a9cbb675d7f5ed5a1e8d4153"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1816,7 +1816,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="5"></int>
+              <int value="6"></int>
               <string role="key" value="parentNode"></string>
               <reference key="33"></reference>
              </dictionary>
@@ -2099,7 +2099,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="464"></int>
+                        <int value="482"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2113,7 +2113,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="15_146_2.3"></unicode>
+                      <unicode value="15_146_2.4"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="40">
                        <dictionary>
@@ -2124,7 +2124,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="2.1.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\2.1.png"></string>
+                        <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\2.1.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="fbbc5a783d517e3f5f57fab43b260623"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2153,7 +2153,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="4"></int>
+                 <int value="5"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="37"></reference>
                 </dictionary>
@@ -2407,7 +2407,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="3.gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\3.gif"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\3.gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="0c634f709755085fa2725200029278d1"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2430,7 +2430,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="3Thumbnail.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\3Thumbnail.png"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\3Thumbnail.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="1aacac9893972699a5eee59570679e31"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2483,7 +2483,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="4.gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\4.gif"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\4.gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="4c1a4d7d6ee6f95b3bdae20774edb593"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2506,7 +2506,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="4Thumbnail.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\4Thumbnail.png"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\4Thumbnail.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="4af39f0f21b853c74ad11c0f49cb1045"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2559,7 +2559,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="5.gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\5.gif"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\5.gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="c7e91fd1e533c3e37b94c4ea037d7731"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2582,7 +2582,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="5Thumbnail.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\5Thumbnail.png"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\5Thumbnail.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f123c414cbebf5c270ba696b31f17ca3"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2635,7 +2635,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="6.gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\6.gif"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\6.gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="2de5ced013e9e5ef7b3eaa8084459c82"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2658,7 +2658,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="6Thumbnail.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\6Thumbnail.png"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\6Thumbnail.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="8b3cf474fd83ff7dc1297bb50ef400fa"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2711,7 +2711,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="7.gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\7.gif"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\7.gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="844b8de35ea43f44fdbeea68e602e6f7"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2734,7 +2734,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="7Thumbnail.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\7Thumbnail.png"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\7Thumbnail.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="093c574e139d2ab31c4d152abbfec3a2"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2858,7 +2858,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="8.gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\8.gif"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\8.gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="5b745295e0d2802f7719b4e626c5324f"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2881,7 +2881,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="8Thumbnail.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\8Thumbnail.png"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\8Thumbnail.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="5dd16fd9bb25e2165d594a9518aeca25"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2934,7 +2934,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="9.gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\9.gif"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\9.gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f4f6bd1fc7621a8646c2c862e7d6afb8"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2957,7 +2957,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="9Thumbnail.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\9Thumbnail.png"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\9Thumbnail.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a05b2153d3c6a089517d29caf530997a"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3010,7 +3010,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="10.gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\10.gif"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\10.gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="4b4b959a3d93cda4ba4ae90bb0a8cdef"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3033,7 +3033,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="10Thumbnail.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\10Thumbnail.png"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\10Thumbnail.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="8dc2cc930ffe4e7cc64b776c5c1c62f0"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3086,7 +3086,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="11.gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\11.gif"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\11.gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="d2a3f56a3a6efcbb376e9f8bf1a67d16"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3109,7 +3109,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="11Thumbnail.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\11Thumbnail.png"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\11Thumbnail.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ad5e239086ab9bf92aaf0fec849dbfcb"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3162,7 +3162,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="12.gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\12.gif"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\12.gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="b17bf13a1de02553d19b9031dc3b7032"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3185,7 +3185,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="12Thumbnail.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\12Thumbnail.png"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\12Thumbnail.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="5cc6b6d7a03fb1123f8f9fe70c024826"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3365,7 +3365,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="471"></int>
+                        <int value="489"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3379,7 +3379,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="22_145_2.2"></unicode>
+                      <unicode value="22_145_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="69">
                        <dictionary>
@@ -3390,7 +3390,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="4.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\4.png"></string>
+                        <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\4.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="f6a205a7c97cf658b980ef596a27784f"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3419,7 +3419,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="3"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="68"></reference>
                 </dictionary>
@@ -3547,7 +3547,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="469"></int>
+                        <int value="487"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3561,7 +3561,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="20_143_2.2"></unicode>
+                      <unicode value="20_143_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="72">
                        <dictionary>
@@ -3572,7 +3572,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="3.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\3.jpg"></string>
+                        <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\3.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="5daba85e2ad0ea51f355862de797ccdf"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3601,7 +3601,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="3"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="68"></reference>
                 </dictionary>
@@ -4197,7 +4197,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="478"></int>
+                     <int value="496"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4211,7 +4211,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="26_149_2.2"></unicode>
+                   <unicode value="26_149_2.3"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="84">
                     <dictionary>
@@ -4222,7 +4222,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Sin_titulo_(Presentacion_(169))_(2).gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\Sin_titulo_(Presentacion_(169))_(2).gif"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\Sin_titulo_(Presentacion_(169))_(2).gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="307d07fd9d2a94b093756f3888b11efb"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4251,7 +4251,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="3"></int>
+              <int value="4"></int>
               <string role="key" value="parentNode"></string>
               <reference key="83"></reference>
              </dictionary>
@@ -4823,7 +4823,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="473"></int>
+                        <int value="491"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -4837,7 +4837,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="30_153_2.2"></unicode>
+                      <unicode value="30_153_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="95">
                        <dictionary>
@@ -4848,7 +4848,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Imagen4.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\Imagen4.png"></string>
+                        <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\Imagen4.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="544d4e1f81be97bd8eeae5274ec5ddb6"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4877,7 +4877,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="3"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="94"></reference>
                 </dictionary>
@@ -5710,7 +5710,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="474"></int>
+                        <int value="492"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -5724,7 +5724,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="37_160_2.2"></unicode>
+                      <unicode value="37_160_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="110">
                        <dictionary>
@@ -5735,7 +5735,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Imagen6.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\Imagen6.jpg"></string>
+                        <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\Imagen6.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="47e1998990e5292b1de1a0384667f055"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5764,7 +5764,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="3"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="109"></reference>
                 </dictionary>
@@ -5922,7 +5922,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="479"></int>
+                     <int value="497"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -5936,7 +5936,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="38_161_2.2"></unicode>
+                   <unicode value="38_161_2.3"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="114">
                     <dictionary>
@@ -5947,7 +5947,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Sin_titulo_(Presentacion_(170))_(1).gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\Sin_titulo_(Presentacion_(170))_(1).gif"></string>
+                     <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\Sin_titulo_(Presentacion_(170))_(1).gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="616a0d1264730953935e0eaa6b415dc6"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5976,7 +5976,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="3"></int>
+              <int value="4"></int>
               <string role="key" value="parentNode"></string>
               <reference key="113"></reference>
              </dictionary>
@@ -6130,7 +6130,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="475"></int>
+                        <int value="493"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -6144,7 +6144,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="39_162_2.2"></unicode>
+                      <unicode value="39_162_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="118">
                        <dictionary>
@@ -6155,7 +6155,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Imagen7.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\Imagen7.jpg"></string>
+                        <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\Imagen7.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="93d4b6ac0822cf4c96ed75d6114a1492"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6184,7 +6184,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="3"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="117"></reference>
                 </dictionary>
@@ -6339,7 +6339,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="476"></int>
+                        <int value="494"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -6353,7 +6353,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="40_163_2.2"></unicode>
+                      <unicode value="40_163_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="122">
                        <dictionary>
@@ -6364,7 +6364,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Imagen8.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\tavog\\appdata\\local\\temp\\tmpu5camy\\Imagen8.png"></string>
+                        <string value="c:\\users\\alejan~1\\appdata\\local\\temp\\tmpvt7uuh\\Imagen8.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="69531b7bb4631925444db504a5418f93"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6393,7 +6393,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="3"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="121"></reference>
                 </dictionary>
@@ -7705,7 +7705,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
   <string role="key" value="mxmlwidth"></string>
   <string value=""></string>
   <string role="key" value="release"></string>
-  <string value="2.8.1"></string>
+  <string value="2.9"></string>
   <string role="key" value="resources"></string>
   <dictionary>
    <string role="key" value="093c574e139d2ab31c4d152abbfec3a2"></string>
